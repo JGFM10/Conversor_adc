@@ -2,6 +2,8 @@
 
 Este código é destinado ao uso com a placa Raspberry Pi Pico e implementa uma série de funcionalidades interativas utilizando LEDs, botões, um joystick e um display OLED SSD1306. Abaixo está uma breve explicação das principais funcionalidades:
 
+Obs Link para o Vídeo Demonstrativo:https://youtu.be/M3Qta8NiVwQ
+
 ## Funcionalidades Principais
 
 1. **Inicialização e Configuração:**
